@@ -113,7 +113,6 @@ img.headshot {
 	position: relative;
 	width: 270px;
 	height: 200px;
-	transition: transform .2s ease-out;
 }
 .item-name {
 	position: relative;
@@ -172,18 +171,6 @@ aside ul li {
 	display: inline-block;
 	margin: 0;
 	padding: 0;
-	-webkit-transition: all .2s;
-	-webkit-transition-timing-function: ease-out;
-	transition: all .2s;
-	transition-timing-function: ease-out;
-
-}
-aside ul li:hover {
-	-ms-transform: scale(1.1,1.1);
-	-webkit-transform: scale(1.1,1.1);
-	-moz-transform: scale(1.1,1.1);
-	-o-transform: scale(1.1,1.1);
-	transform: scale(1.1,1.1);
 }
 .icons {
 	width: 60px;
