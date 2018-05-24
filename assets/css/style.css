@@ -5,7 +5,7 @@ html, body {
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 	background-color: #efefef;
-	background: #efefef url("../images/shattered.png");
+	background: #efefef url("../images/shattered.jpg");
 }
 h1, h2, h3, h4, {
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -191,4 +191,8 @@ footer {
 }
 h5 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+.placeholder {
+	width: 270px;
+	height: auto;
 }
